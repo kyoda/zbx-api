@@ -1,0 +1,48 @@
+{
+    "format": "xml",
+    "rules": {
+        "applications": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "discoveryRules": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "graphs": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "groups": {
+            "createMissing": true
+        },
+        "items": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "maps": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "screens": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "templateLinkage": {
+            "createMissing": true
+        },
+        "templates": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "templateScreens": {
+            "createMissing": true,
+            "updateExisting": true
+        },
+        "triggers": {
+            "createMissing": true,
+            "updateExisting": true
+        }
+    },
+    "source": "xml file"
+}

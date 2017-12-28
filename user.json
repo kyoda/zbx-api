@@ -1,0 +1,20 @@
+{
+    "alias": "user",
+    "passwd": "password",
+    "usrgrps": [
+        {
+            "usrgrpid": "0"
+        }
+    ],
+    "user_medias": [
+        {
+            "mediatypeid": "1",
+            "sendto": "user@example.com",
+            "active": 1,
+            "severity": 63,
+            "period": "1-7,00:00-24:00"
+        }
+    ],
+    "lang": "ja_JP",
+    "type": 3
+}

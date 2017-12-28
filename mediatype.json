@@ -1,0 +1,6 @@
+{
+    "mediatypeid": 1,
+    "smtp_server": "127.0.0.1",
+    "smtp_helo": "127.0.0.1",
+    "smtp_email": "zabbix@localhost"
+}

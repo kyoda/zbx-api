@@ -1,0 +1,37 @@
+{
+    "name": "post mail",
+    "eventsource": 0,
+    "evaltype": 0,
+    "status": 0,
+    "esc_period": 3600,
+    "def_shortdata": "",
+    "def_longdata": "",
+    "r_shortdata": "",
+    "r_longdata": "",
+    "recovery_msg": 1,
+    "conditions": [
+        {
+            "conditiontype": 4,
+            "operator": 5,
+            "value": 3
+        }
+    ],
+    "operations": [
+        {
+            "operationtype": 0,
+            "esc_period": 3600,
+            "esc_step_from": 1,
+            "esc_step_to": 1,
+            "evaltype": 0,
+            "opmessage_usr": [
+                {
+                    "userid": 0
+                }
+            ],
+            "opmessage": {
+                "default_msg": 1,
+                "mediatypeid": 1
+            }
+        }
+    ]
+}
